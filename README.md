@@ -1,9 +1,10 @@
 # Breakout1-Reverse-Array
 # Developed By :
 
-## Nicodemus
-## Joseph
-## Samuel
-## Marial
-## Bernard 
-## Nancy
+## Nicodemus Othieno
+## Joseph Kibegwa
+## Samuel Chacha
+## Marial Achieng
+## Bernard Bett
+## Nancy Kigotho
+## Wabuko Akhanyinya
